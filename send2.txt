@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 cos
-=======
 asdasd
 asdasd
 asd
->>>>>>> 6f35863 (as)
